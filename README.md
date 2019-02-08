@@ -7,3 +7,4 @@
 * [Beyond word2vec: GloVe, fastText, StarSpace - Konstantinos Perifanos](https://www.youtube.com/watch?v=6xPnEh_tJEc)
 * [Data Pre-Processing for Word2Vec - NLP for Tensorflow ep.1](https://www.youtube.com/watch?v=_34lMmMOKv0)
 * [12.1: What is word2vec? - Programming with Text](https://www.youtube.com/watch?v=LSS_bos_TPI)
+* [Building Word2Vec Model - NLP for Tensorflow ep.2](https://www.youtube.com/watch?v=ug0SU8h1Nz0)
